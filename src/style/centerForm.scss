@@ -1,0 +1,24 @@
+.form-div {
+
+    margin-top: 45px;
+    
+    input,
+    textarea {
+
+        border-top: 0;
+        border-right: 0;
+        border-left: 0;
+        border-radius: 0;
+    }
+
+    textarea {
+
+        height: 120px !important;
+    }
+
+    button {
+
+        width: 9em;
+        border-radius: 25px;
+    }
+}
